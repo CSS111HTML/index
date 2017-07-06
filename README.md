@@ -3,3 +3,4 @@
 [css3任务](http://CSS111HTML.github.io/cssTask/task3/task3.html)
 [css4任务](http://CSS111HTML.github.io/cssTask/task4/task4.html)
 [css5任务](http://CSS111HTML.github.io/cssTask/task5/task5.html)
+[css6任务](http://CSS111HTML.github.io/cssTask/task6/task6.html)
